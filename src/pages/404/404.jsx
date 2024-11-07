@@ -1,7 +1,5 @@
 import './404.scss';
 import Logo404 from '../../assets/logo-404.svg';
-import Header from '../../components/header/Header';
-import Footer from '../../components/footer/Footer';
 import { Link } from 'react-router-dom';
 
 const ErrorPage = () => {
